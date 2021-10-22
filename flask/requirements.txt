@@ -34,7 +34,7 @@ pytest-cov==2.11.1
 pytest==6.2.3
 mypy==1.0
 neural-python=.0.0.4
-neuralnetwork==1.0
+neuralnetwork==1.8
 matplotlib==3.4.3
 asgiref==3.4.1
 toml==1.0
