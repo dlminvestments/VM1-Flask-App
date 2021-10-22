@@ -18,7 +18,7 @@ pytest==6.2.5
 pytest-cov==3.0.0
 wtforms==3.0.0
 
-juypter server proxy==1.3.2
+juypter-server-proxy==1.3.2
 sqlparse==0.4.2
 Flask==2.0.2
 attrs==21.2.0
@@ -38,6 +38,10 @@ neuralnetwork==1.0
 matplotlib==3.4.3
 asgiref==3.4.1
 toml==1.0
+jupyter-console==6.0.0
+jupyter-core==4.3.0
+entrypoints==0.3
+networkx==2.0
 packaging==1.0
 tensorflow==2.6.0
 keras==2.6.0
