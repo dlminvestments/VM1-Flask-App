@@ -1,0 +1,9 @@
+#!/Users/kadeemcharles/etcd/etcd/coredns/learn-consul-service-mesh/my-app/my-app/my-static-site/waypoint-examples/docker/ruby/waypoint-examples/docker/nodejs/waypoint-examples/nomad/nodejs/waypoint-examples/learn/static-application-configuration/waypoint-examples/kubernetes/nodejs/coredns/server/server.py/app.py/env/bin/python3
+# -*- coding: utf-8 -*-
+import re
+import sys
+from pip._internal.cli.main import main
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(main())
+
