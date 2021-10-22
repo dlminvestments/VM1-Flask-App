@@ -41,7 +41,7 @@ toml==1.0
 jupyter-console==6.0.0
 jupyter-core==4.3.0
 entrypoints==0.3
-networkx==2.0
+networkx==2.6.3
 packaging==1.0
 tensorflow==2.6.0
 keras==2.6.0
