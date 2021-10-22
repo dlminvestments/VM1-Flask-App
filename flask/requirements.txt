@@ -30,7 +30,7 @@ parse==1.19.0
 pip==21.3
 py==1.10.0
 pytz==2.3 
-pytest-cov==2.11.1
+pytest-cov==3.0.0
 pytest==6.2.3
 mypy==1.0
 neural-python=.0.0.4
