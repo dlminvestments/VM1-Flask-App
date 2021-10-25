@@ -34,7 +34,7 @@ A Simple Example
 ----------------
 
 
-    # save this as app.py
+    # save this as server.py
     from flask import Flask
 
     app = Flask(__name__)
