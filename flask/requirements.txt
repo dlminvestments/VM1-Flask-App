@@ -31,7 +31,7 @@ pip==21.3.1
 py==1.10.0
 pytz==2.3 
 pytest-cov==2.11.1
-pytest==6.2.3
+pytest==6.2.5
 mypy==1.0
 neural-python=.0.0.4
 neuralnetwork==1.0
