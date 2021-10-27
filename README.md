@@ -24,7 +24,6 @@ Installing
 
 Install and update using `pip`_:
 
-.. code-block:: text
 
     $ pip install -U Flask
 
@@ -34,9 +33,8 @@ Install and update using `pip`_:
 A Simple Example
 ----------------
 
-.. code-block:: python
 
-    # save this as app.py
+    # save this as server.py
     from flask import Flask
 
     app = Flask(__name__)
@@ -45,11 +43,11 @@ A Simple Example
     def hello():
         return "Hello, World!"
 
-.. code-block:: text
 
     $ flask run
       * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 
+http://127.0.0.1:5000
 
 Contributing
 ------------
