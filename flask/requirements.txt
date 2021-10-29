@@ -42,7 +42,7 @@ jupyter-console==6.4.0
 jupyter-core==4.3.0
 entrypoints==0.3
 networkx==2.0
-packaging==1.0
+packaging==21.2
 tensorflow==2.6.0
 keras==2.6.0
 
