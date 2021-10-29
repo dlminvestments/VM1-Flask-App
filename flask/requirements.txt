@@ -47,7 +47,7 @@ tensorflow==2.6.0
 keras==2.6.0
 
 appdirs==1.4.4
-CacheControl==0.12.6
+CacheControl==0.12.8
 colorama==0.4.4
 contextlib2==21.6.0
 distlib==0.3.3
