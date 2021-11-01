@@ -74,5 +74,5 @@ setuptools==58.3.0
 six==1.16.0
 toml==0.10.2
 webencodings==0.5.1
-virtualenv==20.9.0
+virtualenv==20.10.0
 wheel==0.37.0
