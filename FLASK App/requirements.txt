@@ -8,7 +8,7 @@ Flask-User==1.0.2.2
 pytest==6.2.5
 pytest-cov==3.0.0
 wtforms==3.0.0a1 
-Werkzeug==0.8.3
+Werkzeug==0.15.3
 gunicorn==0.14.2
 sqlalchemy==1.0.0
 sqlparse==0.4.2
