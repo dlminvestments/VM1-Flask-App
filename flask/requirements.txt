@@ -52,7 +52,7 @@ jupyter-core==4.9.1
 entrypoints==0.3
 networkx==2.0
 packaging==21.2
-tensorflow==2.6.0
+tensorflow==2.6.1
 keras==2.7.0
 
 appdirs==1.4.4
