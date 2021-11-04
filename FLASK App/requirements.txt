@@ -18,9 +18,15 @@ gunicorn==20.1.0
 pyup-update-sqlalchemy-1.0.0-to-1.4.26
 sqlalchemy==1.4.26
 =======
+pyup-pin-main-0.1
 main==0.1
 sqlalchemy==1.0.0
 main==0.1
+=======
+main
+sqlalchemy==1.4.26
+main
+main
 =======
 Werkzeug==2.0.2
 pyup-update-gunicorn-19.5.0-to-20.1.0
