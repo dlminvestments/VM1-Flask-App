@@ -32,9 +32,9 @@ pyup-pin-main-0.1
 main==0.1
 setuptools==58.3.0
 =======
-main
+main==0.1
 setuptools==58.4.0
-main
+main==0.1
 parse==1.19.0
 pip==21.3.1
 py==1.10.0
