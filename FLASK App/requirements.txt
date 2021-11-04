@@ -9,7 +9,7 @@ pytest==6.2.5
 pytest-cov==3.0.0
 wtforms==3.0.0a1 
 renovate/werkzeug-0.x
-Werkzeug==0.16.1
+Werkzeug==2.0.2
 gunicorn==0.14.2
 =======
 pyup-update-gunicorn-0.14.2-to-20.1.0
