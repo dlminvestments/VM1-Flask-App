@@ -40,7 +40,7 @@ renovate/setuptools-58.x
 main
 setuptools==58.5.2
 =======
-setuptools==58.4.0
+setuptools==58.5.2
 main
 main
 parse==1.19.0
