@@ -32,6 +32,11 @@ pyup-pin-main-0.1
 main==0.1
 setuptools==58.3.0
 =======
+pyup-pin-main-0.1
+main==0.1
+setuptools==58.4.0
+main==0.1
+=======
 main
 pyup-update-setuptools-58.4.0-to-58.5.2
 pyup-update-setuptools-58.4.0-to-58.5.2
@@ -41,6 +46,7 @@ main
 setuptools==58.5.2
 =======
 setuptools==58.4.0
+main
 main
 main
 parse==1.19.0

@@ -29,5 +29,5 @@ gunicorn==20.1.0
 gunicorn==19.10.0
 main
 sqlalchemy==1.4.26
-main
+main==0.1
 sqlparse==0.4.2
