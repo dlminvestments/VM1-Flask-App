@@ -11,7 +11,7 @@ wtforms==3.0.0a1
 pyup-update-gunicorn-0.14.2-to-20.1.0
 Werkzeug==0.8.3
 gunicorn==20.1.0
-sqlalchemy==1.0.0
+sqlalchemy==1.4.26
 =======
 Werkzeug==2.0.2
 gunicorn==19.5.0
