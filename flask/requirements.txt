@@ -33,7 +33,11 @@ main==0.1
 setuptools==58.3.0
 =======
 main
+pyup-update-setuptools-58.4.0-to-58.5.2
+pyup-update-setuptools-58.4.0-to-58.5.2
+=======
 renovate/setuptools-58.x
+main
 setuptools==58.5.2
 =======
 setuptools==58.4.0
