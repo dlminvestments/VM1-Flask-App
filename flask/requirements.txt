@@ -34,6 +34,10 @@ setuptools==58.3.0
 =======
 main
 pyup-update-setuptools-58.4.0-to-58.5.2
+pyup-update-setuptools-58.4.0-to-58.5.2
+=======
+renovate/setuptools-58.x
+main
 setuptools==58.5.2
 =======
 setuptools==58.4.0
@@ -56,11 +60,11 @@ jupyter-core==4.9.1
 entrypoints==0.3
 networkx==2.0
 packaging==21.2
-tensorflow==2.6.0
+tensorflow==2.6.1
 keras==2.7.0
 
 appdirs==1.4.4
-CacheControl==0.12.8
+CacheControl==0.12.9
 colorama==0.4.4
 contextlib2==21.6.0
 distlib==0.3.3
