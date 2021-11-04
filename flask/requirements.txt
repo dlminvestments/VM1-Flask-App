@@ -51,7 +51,7 @@ main
 main
 parse==1.19.0
 pip==21.3.1
-py==1.10.0
+py==1.11.0
 pytz==2021.3 
 pytest-cov==3.0.0
 pytest==6.2.5
