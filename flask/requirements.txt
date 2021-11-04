@@ -34,7 +34,7 @@ setuptools==58.5.2
 =======
 pyup-pin-main-0.1
 main==0.1
-setuptools==58.4.0
+setuptools==58.5.2
 main==0.1
 =======
 main
