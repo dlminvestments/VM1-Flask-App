@@ -16,5 +16,5 @@ sqlalchemy==1.0.0
 Werkzeug==2.0.2
 gunicorn==19.5.0
 sqlalchemy==1.4.26
-main
+main==0.1
 sqlparse==0.4.2
