@@ -37,18 +37,18 @@ main==0.1
 setuptools==58.4.0
 main==0.1
 =======
-main
+main==0.1
 pyup-update-setuptools-58.4.0-to-58.5.2
 pyup-update-setuptools-58.4.0-to-58.5.2
 =======
 renovate/setuptools-58.x
-main
+main==0.1
 setuptools==58.5.2
 =======
 setuptools==58.4.0
-main
-main
-main
+main==0.1
+main==0.1
+main==0.1
 parse==1.19.0
 pip==21.3.1
 py==1.10.0
@@ -75,8 +75,8 @@ pyup-update-tensorflow-2.6.0-to-2.6.1
 keras==2.7.0
 =======
 keras==2.7.0
-main
-main
+main==0.1
+main==0.1
 
 appdirs==1.4.4
 CacheControl==0.12.9
