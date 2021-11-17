@@ -26,6 +26,10 @@ main==0.1
 main
 sqlalchemy==1.4.27
 main
+pyup-update-sqlalchemy-1.4.26-to-1.4.27
+sqlalchemy==1.4.27
+=======
+main
 main
 =======
 Werkzeug==2.0.2
@@ -37,6 +41,9 @@ gunicorn==20.1.0
 main==0.1
 =======
 gunicorn==20.1.0
+main
+pyup-update-sqlalchemy-1.4.26-to-1.4.27
+=======
 main
 main
 sqlalchemy==1.4.27
