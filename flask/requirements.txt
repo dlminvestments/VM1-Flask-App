@@ -44,11 +44,11 @@ pyup-pin-main-0.1
 main==0.1
 setuptools==59.1.1
 =======
-setuptools==59.0.1
+setuptools==59.1.1
 =======
 pyup-pin-main-0.1
 main==0.1
-setuptools==59.0.1
+setuptools==59.1.1
 main
 main
 main==0.1
@@ -161,7 +161,7 @@ setuptools==59.1.1
 pyup-update-setuptools-58.5.3-to-59.1.1
 setuptools==59.1.1
 =======
-setuptools==59.0.1
+setuptools==59.1.1
 main
 main
 six==1.16.0
