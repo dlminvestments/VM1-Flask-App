@@ -144,10 +144,14 @@ distro==1.6.0
 html5lib==1.1
 ipaddress==1.0.23  # Only needed on 2.6 and 2.7
 pyup-update-msgpack-1.0.2-to-1.0.3
+pyup-update-msgpack-1.0.2-to-1.0.3
 msgpack==1.0.3
 packaging==21.2
 =======
 msgpack==1.0.2
+=======
+msgpack==1.0.3
+main
 packaging==21.3
 main
 pep517==0.12.0
