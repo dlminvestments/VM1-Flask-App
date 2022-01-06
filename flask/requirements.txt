@@ -52,7 +52,7 @@ pyup-pin-main-0.1
 main==0.1
 setuptools==60.3.1
 =======
-setuptools==60.1.1
+setuptools==60.3.1
 =======
 setuptools==60.3.1
 main
@@ -104,7 +104,7 @@ setuptools==60.3.1
 pyup-pin-main-0.1
 setuptools==60.3.1
 =======
-setuptools==60.1.1
+setuptools==60.3.1
 =======
 setuptools==60.3.1
 main
@@ -150,7 +150,7 @@ setuptools==60.3.1
 =======
 setuptools==60.3.1
 =======
-setuptools==60.1.1
+setuptools==60.3.1
 =======
 setuptools==60.3.1
 main
@@ -245,7 +245,7 @@ setuptools==60.3.1
 =======
 setuptools==60.3.1
 =======
-setuptools==60.1.1
+setuptools==60.3.1
 =======
 setuptools==60.3.1
 main
