@@ -4,5 +4,5 @@ jobs:
       - name: Datadog Agent
         uses: DataDog/agent-github-action@v1
         with:
-          api_key: ${{ 664ef0c5810256e4351e0575b8a58964 }}
+          api_key: ${{  }}
       - run: make test
