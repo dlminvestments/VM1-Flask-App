@@ -14,7 +14,7 @@ Flask-WTF==1.0.0
 Flask-User==1.0.2.2
 
 # Automated tests
-pytest==7.1.0
+pytest==7.1.1
 pytest-cov==3.0.0
 wtforms==3.0.1
 
@@ -182,7 +182,7 @@ pip==22.0.4
 py==1.11.0
 pytz==2021.3 
 pytest-cov==3.0.0
-pytest==7.1.0
+pytest==7.1.1
 mypy==1.0
 neural-python=.0.0.4
 neuralnetwork==1.8
