@@ -22,7 +22,7 @@ juypter-server-proxy==1.3.2
 sqlparse==0.4.2
 Flask==2.0.3
 attrs==21.4.0
-Werkzeug==2.0.3
+Werkzeug==2.1.0
 Jinja2==3.1.0
 pyup-update-setuptools-58.2.0-to-58.3.0
 oauth2client==4.1.3
