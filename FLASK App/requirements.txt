@@ -1,5 +1,5 @@
 pyup-update-flask-2.0.3-to-2.1.0
-Flask==2.1.0
+Flask==2.1.1
 =======
 Flask==2.1.1
 main
