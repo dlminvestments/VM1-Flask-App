@@ -3,7 +3,7 @@ Flask==2.1.0
 =======
 Flask==2.1.1
 main
-Flask-Login==0.5.0
+Flask-Login==0.6.0
 Flask-Migrate==3.1.0
 Flask-Script==2.0.6
 Flask-SQLAlchemy==2.5.1
