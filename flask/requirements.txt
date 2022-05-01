@@ -30,7 +30,7 @@ Flask==2.1.1
 Flask==2.1.1
 main
 attrs==21.4.0
-Werkzeug==2.1.1
+Werkzeug==2.1.2
 Jinja2==3.1.2
 pyup-update-setuptools-58.2.0-to-58.3.0
 oauth2client==4.1.3
