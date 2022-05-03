@@ -195,7 +195,7 @@ mypy==1.0
 neural-python=.0.0.4
 neuralnetwork==1.8
 matplotlib==3.5.1
-asgiref==3.5.0
+asgiref==3.5.1
 toml==1.0
 jupyter-console==6.4.3
 jupyter-core==4.10.0
