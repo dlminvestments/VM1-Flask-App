@@ -1,6 +1,6 @@
 mypy==0.950
 idna==3.3
-cryptography==37.0.1
+cryptography==37.0.2
 tornado==6.1
 pytest==7.1.2
 trustme==0.9.0
