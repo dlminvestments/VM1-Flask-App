@@ -1,12 +1,12 @@
-mypy==0.942
+mypy==0.950
 idna==3.3
-cryptography==37.0.0
+cryptography==37.0.1
 tornado==6.1
 pytest==7.1.2
 trustme==0.9.0
 types-backports==1.0.0
 pyup-update-types-requests-2.27.5-to-2.27.6
-types-requests==2.27.20
+types-requests==2.27.25
 =======
-types-requests==2.27.20
+types-requests==2.27.25
 main
