@@ -207,7 +207,7 @@ asgiref==3.5.2
 =======
 matplotlib==3.5.1
 main
-asgiref==3.5.1
+asgiref==3.5.2
 main
 toml==1.0
 jupyter-console==6.4.3
