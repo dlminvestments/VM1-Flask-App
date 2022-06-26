@@ -375,7 +375,7 @@ progress==1.6
 pyparsing==3.0.9
 requests==2.28.0
 certifi==2022.6.15
-chardet==4.0.0
+chardet==5.0.0
 idna==3.3
 urllib3==1.26.9
 resolvelib==0.8.1
