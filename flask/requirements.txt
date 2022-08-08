@@ -38,7 +38,7 @@ renovate/attrs-22.x
 attrs==22.1.0
 main
 =======
-attrs==21.4.0
+attrs==22.1.0
 pyup-update-werkzeug-2.1.2-to-2.2.0
 Werkzeug==2.2.1
 =======
