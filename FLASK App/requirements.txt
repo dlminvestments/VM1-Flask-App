@@ -1,4 +1,13 @@
 pyup-update-flask-login-0.5.0-to-0.6.0
+pyup-update-flask-2.2.0-to-2.2.1
+Flask==2.2.1
+Flask-Login==0.6.2
+=======
+pyup-update-flask-2.0.3-to-2.1.0
+Flask==2.2.1
+=======
+Flask==2.2.1
+=======
 Flask==2.2.2
 Flask-Login==0.6.2
 =======
@@ -6,6 +15,7 @@ pyup-update-flask-2.0.3-to-2.1.0
 Flask==2.2.2
 =======
 Flask==2.2.2
+main
 main
 pyup-update-flask-login-0.5.0-to-0.6.0
 Flask-Login==0.6.2
