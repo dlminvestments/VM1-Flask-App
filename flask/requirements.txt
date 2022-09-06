@@ -363,14 +363,14 @@ entrypoints==0.4
 networkx==2.8.6
 packaging==21.3
 renovate/keras-2.x
-tensorflow==2.9.1
+tensorflow==2.9.2
 pyup-update-tensorflow-2.7.0-to-2.8.0
 keras==2.10.0
 =======
 keras==2.10.0
 main
 =======
-tensorflow==2.9.1
+tensorflow==2.9.2
 pyup-update-tensorflow-2.6.0-to-2.6.1
 keras==2.10.0
 =======
