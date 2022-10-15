@@ -337,7 +337,7 @@ main
 main
 main
 parse==1.19.0
-pip==22.2.2
+pip==22.3
 py==1.11.0
 pytz==2022.4 
 pytest-cov==4.0.0
