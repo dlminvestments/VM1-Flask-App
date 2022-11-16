@@ -409,7 +409,7 @@ certifi==2022.9.24
 chardet==5.0.0
 idna==3.4
 urllib3==1.26.12
-resolvelib==0.8.1
+resolvelib==0.9.0
 retrying==1.3.3
 renovate/setuptools-59.x
 renovate/setuptools-60.x
