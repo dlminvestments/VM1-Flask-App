@@ -30,7 +30,7 @@ main
 Flask-Migrate==4.0.1
 Flask-Script==2.0.6
 Flask-SQLAlchemy==3.0.2
-Flask-WTF==1.1.0
+Flask-WTF==1.1.1
 Flask-User==1.0.2.2
 pytest==7.2.1
 pytest-cov==4.0.0
