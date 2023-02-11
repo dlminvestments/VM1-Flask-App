@@ -1,9 +1,9 @@
 mypy==1.0.0
 idna==3.4
 pyup-update-tornado-6.1-to-6.2
-cryptography==39.0.0
+cryptography==39.0.1
 =======
-cryptography==39.0.0
+cryptography==39.0.1
 main
 tornado==6.2
 pytest==7.2.1
