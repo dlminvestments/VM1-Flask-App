@@ -346,7 +346,7 @@ pytest-cov==4.0.0
 pytest-cov==4.0.0
 main
 pytest==7.2.1
-mypy==1.0
+mypy==1.0.1
 neural-python=.0.0.4
 neuralnetwork==1.8
 renovate/matplotlib-3.x
