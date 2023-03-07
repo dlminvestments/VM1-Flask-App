@@ -361,7 +361,7 @@ main
 asgiref==3.6.0
 main
 toml==1.0
-jupyter-console==6.6.2
+jupyter-console==6.6.3
 jupyter-core==5.2.0
 entrypoints==0.4
 networkx==3.0
