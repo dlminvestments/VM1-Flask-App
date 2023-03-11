@@ -392,12 +392,12 @@ html5lib==1.1
 ipaddress==1.0.23  # Only needed on 2.6 and 2.7
 pyup-update-msgpack-1.0.2-to-1.0.3
 pyup-update-msgpack-1.0.2-to-1.0.3
-msgpack==1.0.4
+msgpack==1.0.5
 packaging==23.0
 =======
-msgpack==1.0.4
+msgpack==1.0.5
 =======
-msgpack==1.0.4
+msgpack==1.0.5
 main
 packaging==23.0
 main
