@@ -45,7 +45,7 @@ pyup-update-attrs-21.4.0-to-22.1.0
 pyup-update-attrs-21.4.0-to-22.1.0
 attrs==22.2.0
 Werkzeug==2.2.3
-redis==3.5.3
+redis==4.4.4
 =======
 renovate/attrs-22.x
 attrs==22.2.0
