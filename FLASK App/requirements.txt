@@ -87,4 +87,4 @@ main
 main
 sqlalchemy==2.0.9
 main==0.1
-sqlparse==0.4.3
+sqlparse==0.4.4
