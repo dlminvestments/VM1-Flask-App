@@ -370,16 +370,16 @@ packaging==23.1
 renovate/keras-2.x
 tensorflow==2.12.0
 pyup-update-tensorflow-2.7.0-to-2.8.0
-keras==2.12.0
+keras==2.13.0
 =======
-keras==2.12.0
+keras==2.13.0
 main
 =======
 tensorflow==2.12.0
 pyup-update-tensorflow-2.6.0-to-2.6.1
-keras==2.12.0
+keras==2.13.0
 =======
-keras==2.12.0
+keras==2.13.0
 main==0.1
 main==0.1
 
