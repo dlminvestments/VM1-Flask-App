@@ -409,7 +409,7 @@ requests==2.29.0
 certifi==2022.12.7
 chardet==5.1.0
 idna==3.4
-urllib3==1.26.15
+urllib3==2.0.2
 resolvelib==1.0.1
 retrying==1.3.4
 renovate/setuptools-59.x
