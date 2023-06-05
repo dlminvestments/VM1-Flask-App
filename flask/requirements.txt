@@ -389,7 +389,7 @@ main==0.1
 main==0.1
 
 appdirs==1.4.4
-CacheControl==0.12.12
+CacheControl==0.13.0
 colorama==0.4.6
 contextlib2==21.6.0
 distlib==0.3.6
