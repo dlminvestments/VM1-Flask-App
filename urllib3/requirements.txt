@@ -6,7 +6,7 @@ cryptography==41.0.1
 cryptography==41.0.1
 main
 tornado==6.3.2
-pytest==7.3.1
+pytest==7.3.2
 trustme==1.0.0
 types-backports==1.0.0
 pyup-update-types-requests-2.27.5-to-2.27.6
