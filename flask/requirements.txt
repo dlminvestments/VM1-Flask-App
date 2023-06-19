@@ -342,7 +342,7 @@ main
 main
 main
 main
-parse==1.19.0
+parse==1.19.1
 pip==23.1.2
 py==1.11.0
 pytz==2023.3 
