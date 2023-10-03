@@ -461,9 +461,13 @@ main
 six==1.16.0
 toml==0.10.2
 webencodings==0.5.1
+renovate/virtualenv-20.x
+virtualenv==20.24.5
+=======
 virtualenv==20.24.4
 pyup-update-virtualenv-20.24.3-to-20.24.4
 wheel==0.41.1
 =======
+main
 wheel==0.41.2
 main
