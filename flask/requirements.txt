@@ -464,7 +464,7 @@ webencodings==0.5.1
 renovate/virtualenv-20.x
 virtualenv==20.24.5
 =======
-virtualenv==20.24.4
+virtualenv==20.24.5
 pyup-update-virtualenv-20.24.3-to-20.24.4
 wheel==0.41.1
 =======
