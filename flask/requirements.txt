@@ -46,10 +46,10 @@ pyup-update-attrs-21.4.0-to-22.1.0
 attrs==23.1.0
 pyup-update-werkzeug-2.3.2-to-2.3.4
 pyup-update-redis-5.0.0-to-5.0.1
-Werkzeug==2.3.7
+Werkzeug==3.0.0
 redis==5.0.1
 =======
-Werkzeug==2.3.7
+Werkzeug==3.0.0
 =======
 Werkzeug==3.0.0
 redis==5.0.1
