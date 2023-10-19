@@ -377,7 +377,7 @@ toml==1.0
 jupyter-console==6.6.3
 jupyter-core==5.4.0
 entrypoints==0.4
-networkx==3.1
+networkx==3.2
 packaging==23.2
 renovate/keras-2.x
 tensorflow==2.14.0
