@@ -414,7 +414,7 @@ msgpack==1.0.7
 main
 packaging==23.2
 main
-pep517==0.13.0
+pep517==0.13.1
 progress==1.6
 pyparsing==3.1.1
 requests==2.31.0
