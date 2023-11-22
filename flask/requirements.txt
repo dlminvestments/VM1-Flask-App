@@ -418,7 +418,7 @@ pep517==0.13.1
 progress==1.6
 pyparsing==3.1.1
 requests==2.31.0
-certifi==2023.7.22
+certifi==2023.11.17
 chardet==5.2.0
 idna==3.4
 urllib3==2.1.0
