@@ -5,7 +5,7 @@ cryptography==41.0.5
 =======
 cryptography==41.0.5
 main
-tornado==6.3.3
+tornado==6.4
 pytest==7.4.3
 trustme==1.1.0
 types-backports==1.0.0
