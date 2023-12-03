@@ -473,8 +473,8 @@ virtualenv==20.24.7
 =======
 virtualenv==20.24.7
 pyup-update-virtualenv-20.24.3-to-20.24.4
-wheel==0.41.3
+wheel==0.42.0
 =======
 main
-wheel==0.41.3
+wheel==0.42.0
 main
