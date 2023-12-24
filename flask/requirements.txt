@@ -400,7 +400,7 @@ CacheControl==0.13.1
 colorama==0.4.6
 contextlib2==21.6.0
 distlib==0.3.8
-distro==1.8.0
+distro==1.9.0
 html5lib==1.1
 ipaddress==1.0.23  # Only needed on 2.6 and 2.7
 pyup-update-msgpack-1.0.2-to-1.0.3
