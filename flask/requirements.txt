@@ -352,7 +352,7 @@ main
 parse==1.20.0
 pip==23.3.2
 py==1.11.0
-pytz==2023.3.post1 
+pytz==2023.4 
 pyup-update-pytz-2022.2.1-to-2022.4
 pytest-cov==4.1.0
 =======
