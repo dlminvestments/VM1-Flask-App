@@ -367,11 +367,11 @@ matplotlib==3.8.3
 =======
 pyup-update-matplotlib-3.5.1-to-3.5.2
 matplotlib==3.8.3
-asgiref==3.7.2
+asgiref==3.8.0
 =======
 matplotlib==3.8.3
 main
-asgiref==3.7.2
+asgiref==3.8.0
 main
 toml==1.0
 jupyter-console==6.6.3
