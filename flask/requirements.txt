@@ -363,13 +363,13 @@ mypy==1.10.1
 neural-python=.0.0.4
 neuralnetwork==1.8
 renovate/matplotlib-3.x
-matplotlib==3.9.0
+matplotlib==3.9.1
 =======
 pyup-update-matplotlib-3.5.1-to-3.5.2
-matplotlib==3.9.0
+matplotlib==3.9.1
 asgiref==3.8.1
 =======
-matplotlib==3.9.0
+matplotlib==3.9.1
 main
 asgiref==3.8.1
 main
