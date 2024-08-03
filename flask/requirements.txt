@@ -43,7 +43,7 @@ main
 main
 pyup-update-attrs-21.4.0-to-22.1.0
 pyup-update-attrs-21.4.0-to-22.1.0
-attrs==23.2.0
+attrs==24.1.0
 pyup-update-werkzeug-2.3.2-to-2.3.4
 pyup-update-redis-5.0.0-to-5.0.1
 Werkzeug==3.0.3
@@ -60,10 +60,10 @@ redis==5.0.7
 main
 =======
 renovate/attrs-22.x
-attrs==23.2.0
+attrs==24.1.0
 main
 =======
-attrs==23.2.0
+attrs==24.1.0
 pyup-update-werkzeug-2.1.2-to-2.2.0
 Werkzeug==3.0.3
 =======
