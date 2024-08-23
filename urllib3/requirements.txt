@@ -1,5 +1,5 @@
 mypy==1.11.0
-idna==3.7
+idna==3.8
 pyup-update-tornado-6.1-to-6.2
 cryptography==43.0.0
 =======
