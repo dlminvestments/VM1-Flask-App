@@ -469,9 +469,9 @@ six==1.16.0
 toml==0.10.2
 webencodings==0.5.1
 renovate/virtualenv-20.x
-virtualenv==20.26.3
+virtualenv==20.27.0
 =======
-virtualenv==20.26.3
+virtualenv==20.27.0
 pyup-update-virtualenv-20.24.3-to-20.24.4
 wheel==0.43.0
 =======
