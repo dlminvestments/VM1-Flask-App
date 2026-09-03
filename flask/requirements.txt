@@ -415,7 +415,7 @@ main
 packaging==24.1
 main
 pep517==0.13.1
-progress==1.6
+progress==1.6.1
 pyparsing==3.1.2
 requests==2.32.3
 certifi==2024.7.4
