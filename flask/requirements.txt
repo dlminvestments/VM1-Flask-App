@@ -376,7 +376,7 @@ main
 toml==1.0
 jupyter-console==6.6.3
 jupyter-core==5.7.2
-entrypoints==0.4
+entrypoints==0.4.2
 networkx==3.3
 packaging==24.1
 renovate/keras-2.x
